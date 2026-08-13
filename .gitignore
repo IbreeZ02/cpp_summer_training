@@ -11,6 +11,9 @@
 # Ignore all .locker files
 *.locker
 
+# Ignore all Excel and LibreOffice lock files
+.~lock.*
+
 # Ignore all Excel spreadsheet files
 *.xlsx
 
